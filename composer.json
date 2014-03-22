@@ -1,0 +1,19 @@
+{
+	"name": "lightster/lstr-silex-app",
+	"description": "Lstr/Silex/App Quick-start Library",
+	"keywords": [
+		"silex",
+		"lstr",
+		"lightster"
+	],
+	"homepage": "http://lightdatasys.com",
+	"autoload": {
+		"psr-0": {
+			"Lstr\\Silex\\App": "src/Lstr/Silex/"
+		}
+	},
+	"require": {
+		"php": ">=5.3",
+		"silex/silex": "~1.1"
+	}
+}
