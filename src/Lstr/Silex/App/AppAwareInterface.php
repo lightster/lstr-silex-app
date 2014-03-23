@@ -8,7 +8,7 @@
  * that is distributed with this source code.
  */
 
-namespace Lstr\Silex\Application\Aware;
+namespace Lstr\Silex\App;
 
 use Silex\Application;
 
